@@ -4,3 +4,6 @@ __pycache__/
 models/tinyroberta
 models/tinyroberta/*
 models/
+*.pyc
+*.pyo
+.coverage
